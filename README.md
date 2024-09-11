@@ -1,4 +1,4 @@
-# Awesome Get Contacts Whatsapp
+# Awesome Whatsapp BOT GEMINI (TWILIO)
 
 > ⚠️ Node version required: 21.5 or higher 
 
